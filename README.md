@@ -9,3 +9,10 @@ Get the complete pack with organized folders:
 Includes outline + solid styles, 16/20/24px sizes, instant download.
 
 ⭐ Star this repo if helpful!
+
+
+## ☕ Support
+
+If you find this project useful, consider supporting me on Ko-fi: [ko-fi.com/liutingqiu](https://ko-fi.com/liutingqiu)
+
+Also check out my digital products: [TianqiDigitalStudio on Payhip](https://payhip.com/TianqiDigitalStudio)
