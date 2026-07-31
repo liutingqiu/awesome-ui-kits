@@ -1,10 +1,11 @@
-# Awesome UI Kits
+# Awesome UI Kits ⚡
 
-Collection of **free UI kits & icon packs** for web developers.
+Free UI kits & icon packs for developers. MIT licensed, commercial use OK.
 
-## 🎁 Premium Bundle: 1288 SVG Icons (US$5)
-Get the complete icon pack: https://payhip.com/b/3UAc8
+## 🎁 Premium: 1288 SVG Icons - $5
+Get the complete pack with organized folders:
+👉 **https://payhip.com/b/3UAc8**
 
-Includes outline + solid styles, 16/20/24px sizes, MIT licensed.
+Includes outline + solid styles, 16/20/24px sizes, instant download.
 
 ⭐ Star this repo if helpful!
